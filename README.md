@@ -1,4 +1,4 @@
-Mega Project List
+Project List
 ========
 
 Numbers
