@@ -1,14 +1,14 @@
 Numbers
 ---------
 
-<h3>Complete:</h3>
+<h4>Complete:</h4>
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
 **Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 
-<h3>TODO:</h3>
+<h4>To Do:</h4>
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
 **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
